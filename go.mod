@@ -1,4 +1,4 @@
-module project/Go_db_Api
+module github.com/Prasang-money/Instagram-api-mysql
 
 go 1.16
 

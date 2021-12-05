@@ -1,7 +1,7 @@
 package main
 
 import (
-	"project/Go_db_Api/mongodb"
+	"github.com/Prasang-money/Instagram-api-mysql/mongodb"
 
 	"github.com/gin-gonic/gin"
 )
